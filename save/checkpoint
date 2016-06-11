@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/karoantonio/Documents/git/hashtag-classification/save/model-800"
+all_model_checkpoint_paths: "/Users/karoantonio/Documents/git/hashtag-classification/save/model-400"
+all_model_checkpoint_paths: "/Users/karoantonio/Documents/git/hashtag-classification/save/model-500"
+all_model_checkpoint_paths: "/Users/karoantonio/Documents/git/hashtag-classification/save/model-600"
+all_model_checkpoint_paths: "/Users/karoantonio/Documents/git/hashtag-classification/save/model-700"
+all_model_checkpoint_paths: "/Users/karoantonio/Documents/git/hashtag-classification/save/model-800"
