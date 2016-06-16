@@ -1,4 +1,4 @@
-# Hashtag Classification
+# Tweet Classification
 
 Basically just making twitter hashtag data fit sklearns tensorflow [text classification rnn][0]. 
 
